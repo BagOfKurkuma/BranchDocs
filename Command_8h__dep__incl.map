@@ -1,0 +1,13 @@
+<map id="src/domain/commands/Command.h" name="src/domain/commands/Command.h">
+<area shape="rect" id="node1" title=" " alt="" coords="484,5,653,50"/>
+<area shape="rect" id="node2" href="$CommandStack_8h.html" title=" " alt="" coords="276,98,445,143"/>
+<area shape="rect" id="node8" href="$MergeCommitCommand_8h.html" title=" " alt="" coords="470,98,667,143"/>
+<area shape="rect" id="node10" href="$TextEditCommand_8h.html" title=" " alt="" coords="692,98,861,143"/>
+<area shape="rect" id="node3" href="$EditorController_8h.html" title=" " alt="" coords="69,199,254,227"/>
+<area shape="rect" id="node7" href="$CommandStack_8cpp.html" title=" " alt="" coords="278,191,448,235"/>
+<area shape="rect" id="node4" href="$EditorController_8cpp.html" title=" " alt="" coords="385,283,586,311"/>
+<area shape="rect" id="node5" href="$main_8cpp.html" title=" " alt="" coords="5,283,110,311"/>
+<area shape="rect" id="node6" href="$MainWindow_8cpp.html" title=" " alt="" coords="134,283,304,311"/>
+<area shape="rect" id="node9" href="$MergeCommitCommand_8cpp.html" title=" " alt="" coords="523,191,736,235"/>
+<area shape="rect" id="node11" href="$TextEditCommand_8cpp.html" title=" " alt="" coords="810,191,982,235"/>
+</map>

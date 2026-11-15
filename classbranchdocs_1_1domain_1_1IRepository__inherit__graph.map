@@ -1,0 +1,5 @@
+<map id="branchdocs::domain::IRepository" name="branchdocs::domain::IRepository">
+<area shape="rect" id="node1" title=" " alt="" coords="122,5,296,209"/>
+<area shape="rect" id="node2" href="$classbranchdocs_1_1infrastructure_1_1FileRepository.html" title=" " alt="" coords="5,265,197,468"/>
+<area shape="rect" id="node3" href="$classbranchdocs_1_1infrastructure_1_1SqliteRepository.html" title=" " alt="" coords="221,257,413,477"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="src/domain/IRepository.h" name="src/domain/IRepository.h">
+<area shape="rect" id="node1" title=" " alt="" coords="293,5,474,33"/>
+<area shape="rect" id="node2" href="$EditorController_8h.html" title=" " alt="" coords="5,182,191,210"/>
+<area shape="rect" id="node6" href="$RepositoryFactory_8h.html" title=" " alt="" coords="382,182,582,210"/>
+<area shape="rect" id="node7" href="$FileRepository_8h.html" title=" " alt="" coords="265,81,398,126"/>
+<area shape="rect" id="node9" href="$SqliteRepository_8h.html" title=" " alt="" coords="472,81,614,126"/>
+<area shape="rect" id="node3" href="$EditorController_8cpp.html" title=" " alt="" coords="370,266,570,294"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title=" " alt="" coords="230,266,334,294"/>
+<area shape="rect" id="node5" href="$MainWindow_8cpp.html" title=" " alt="" coords="13,266,183,294"/>
+<area shape="rect" id="node8" href="$FileRepository_8cpp.html" title=" " alt="" coords="214,174,358,218"/>
+<area shape="rect" id="node10" href="$SqliteRepository_8cpp.html" title=" " alt="" coords="606,174,763,218"/>
+</map>

@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['label_0',['label',['../structbranchdocs_1_1MergeVersionItem.html#a146f38a8766e91c9a44e8d5db74c4d16',1,'branchdocs::MergeVersionItem']]],
+  ['loadall_1',['loadAll',['../classbranchdocs_1_1domain_1_1IRepository.html#aa8658bfebdb40bbfc3f9a6d5d0719704',1,'branchdocs::domain::IRepository::loadAll()'],['../classbranchdocs_1_1infrastructure_1_1FileRepository.html#aae9ee32055e675990598027f6660b0ab',1,'branchdocs::infrastructure::FileRepository::loadAll()'],['../classbranchdocs_1_1infrastructure_1_1SqliteRepository.html#a704e0a87ef5e3c410309212e7a269f31',1,'branchdocs::infrastructure::SqliteRepository::loadAll()']]],
+  ['loaddocumenttitle_2',['loadDocumentTitle',['../classbranchdocs_1_1domain_1_1IRepository.html#af731d09a33137f16aabc953e1b6a46e0',1,'branchdocs::domain::IRepository::loadDocumentTitle()'],['../classbranchdocs_1_1infrastructure_1_1FileRepository.html#a81222d3690e9db4d9bc14793335083f1',1,'branchdocs::infrastructure::FileRepository::loadDocumentTitle()'],['../classbranchdocs_1_1infrastructure_1_1SqliteRepository.html#abd774775344685389cad1e9bfb2cec87',1,'branchdocs::infrastructure::SqliteRepository::loadDocumentTitle()']]],
+  ['loadhistoryfromrepository_3',['loadHistoryFromRepository',['../classbranchdocs_1_1EditorController.html#a7ba16e06ee0fff2e6e6291946369bdbb',1,'branchdocs::EditorController']]]
+];
