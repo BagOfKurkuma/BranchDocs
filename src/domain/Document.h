@@ -11,6 +11,7 @@ class Document
 {
     public:
         explicit Document(std::string title);
+        Document(std::string id, std::string title);
 
         const std::string &id() const noexcept { return m_id; }
         const std::string &title() const noexcept { return m_title; }
@@ -19,6 +20,8 @@ class Document
 
         void edit(std::string newContent);
         Version createSnapshot(const std::string &comment);
+        void restoreFrom(const Version &v);
+        void restoreState(std::string content, bool wasModified);
 
         VersionHistory &history() noexcept { return m_history; }
         const VersionHistory &history() const noexcept { return m_history; }

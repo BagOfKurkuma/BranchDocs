@@ -34,3 +34,7 @@ domain_tests
 
 .DS_Store
 Thumbs.db
+
+build.txt
+
+docs/

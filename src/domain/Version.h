@@ -4,22 +4,27 @@
 
 namespace branchdocs::domain {
 
-class Version {
-public:
-    Version(std::string content, std::string comment);
+class Version
+{
+    public:
+        Version(std::string content, std::string comment);
+        static Version fromPersisted(std::string id, std::string content, std::string comment,
+                                     std::chrono::system_clock::time_point ts);
 
-    const std::string& id()      const noexcept { return m_id; }
-    const std::string& content() const noexcept { return m_content; }
-    const std::string& comment() const noexcept { return m_comment; }
-    std::chrono::system_clock::time_point timestamp() const noexcept { return m_timestamp; }
+        const std::string &id() const noexcept { return m_id; }
+        const std::string &content() const noexcept { return m_content; }
+        const std::string &comment() const noexcept { return m_comment; }
+        std::chrono::system_clock::time_point timestamp() const noexcept { return m_timestamp; }
 
-    std::string formattedTimestamp() const;
+        std::string formattedTimestamp() const;
 
-private:
-    const std::string m_id;
-    const std::string m_content;
-    const std::string m_comment;
-    const std::chrono::system_clock::time_point m_timestamp;
+    private:
+        Version(std::string id, std::string content, std::string comment, std::chrono::system_clock::time_point ts, int);
+
+        const std::string m_id;
+        const std::string m_content;
+        const std::string m_comment;
+        const std::chrono::system_clock::time_point m_timestamp;
 };
 
 } // namespace branchdocs::domain
